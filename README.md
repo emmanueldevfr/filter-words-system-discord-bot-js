@@ -1,7 +1,4 @@
-## Filter Word system
+## filter-words-system-discord-bot-js
+Word filtering system with the ability to enable/disable filtering of certain words.
 
-# this bot is from EMMANUEL
-# subscrible :3
-
-Pour le configurer, changez `config.json` selon vos besoins !
-Pour démarrer ce logiciel sur votre pc, faites tout d'abors `npm install` puis `node index` pour le lancer
+### A new version under MySQL is coming soon. Please note that this one is still obsolete, especially with its use of the `lowdb` module!
